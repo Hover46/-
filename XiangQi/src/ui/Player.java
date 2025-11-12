@@ -14,7 +14,6 @@ public class Player extends JFrame implements PageSwitchListener {
 
 	public Player() {
 
-		// 测试是否能正常上传
 		setTitle("中国象棋");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
